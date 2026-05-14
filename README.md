@@ -1,18 +1,55 @@
-### 欢迎！Welcome to ZhengHang's AOS Lab 🌥️
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenghangaos)
+<!-- 1. 顶部 Banner：建议使用一张大气科学、云层或海洋相关的精美宽屏图 -->
+<!-- 你可以把下面的图片链接换成你喜欢的任何图片 -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=008080&height=200&section=header&text=ZhengHang's%20AOS%20Lab&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Atmospheric%20and%20Oceanic%20Sciences&descAlignY=60&descSize=20" width="50%" />
 
-<!--
-**ZhengHangAOS/ZhengHangAOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 欢迎！Welcome to ZhengHang's AOS Lab 🌥️
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhenghangaos&label=Lab%20Visitors&color=008080&style=flat" alt="visitors" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- 2. 技术栈与工具徽章（居中显示） -->
+### 🛠️ Tech Stack & Research Tools
+
+<!-- 第一行：编程语言 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<!-- 第二行：排版、工具与前端 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+### 📖 关于我 / About Me
+
+- 🌌 **研究方向**：大气与海洋动力学，气候动力学 (Atmospheric and Oceanic Dynamics & Climate Dynamics)
+- 🌊 **研究兴趣**：专注于研究行星（包括地球）的大气海洋动力学理论
+- 💻 **正在进行**：大气科学与人工智能；前端开发技能，尝试将气象数据处理与 Web 技术结合
+- 🔧 **常用工具**：Panoply, VS Code, LaTeX, Miniconda
+
+### 📬 联系我 / Contact Me
+
+<p align="left">
+<a href="https://github.com/zhenghangaos" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="zhenghangaos" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Exploring the dynamics of the blue marble."</i>
+</p>
