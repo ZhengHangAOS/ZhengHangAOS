@@ -1,4 +1,6 @@
-## Welcome to ZhengHang's AOS Lab 🌥️
+### 欢迎！Welcome to ZhengHang's AOS Lab 🌥️
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenghangaos)
 
 <!--
 **ZhengHangAOS/ZhengHangAOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
