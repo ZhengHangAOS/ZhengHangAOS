@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- 1. 顶部 Banner：建议使用一张大气科学、云层或海洋相关的精美宽屏图 -->
-<!-- 你可以把下面的图片链接换成你喜欢的任何图片 -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=008080&height=200&section=header&text=ZhengHang's%20AOS%20Lab&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Atmospheric%20and%20Oceanic%20Sciences&descAlignY=60&descSize=20" width="50%" />
+<img src="./imgs/hpage_fig01.png" width="50%" />
 
 # 欢迎！Welcome to ZhengHang's AOS Lab 🌥️
 
