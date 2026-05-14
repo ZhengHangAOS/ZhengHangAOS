@@ -1,9 +1,8 @@
 <div align="center">
-
 <!-- 1. 顶部 Banner：建议使用一张大气科学、云层或海洋相关的精美宽屏图 -->
-<img src="./imgs/hpage_fig01.png" width="50%" />
-
-# 欢迎！Welcome to ZhengHang's AOS Lab 🌥️
+  <img src="./imgs/hpage_fig01.png" width="30%" />
+  <h1>Welcome to ZhengHang's AOS Lab 🌥️</h1>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zhenghangaos&label=Lab%20Visitors&color=008080&style=flat" alt="visitors" />
