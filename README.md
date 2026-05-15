@@ -1,7 +1,7 @@
 <div align="center">
 <!-- 1. 顶部 Banner -->
-  <img alt="Image" src="https://github.com/user-attachments/assets/9abed75f-aaad-471d-a2a6-e1970666b4b9" width="30%" />
-  <h1>Welcome to ZhengHang's AOS Lab 🌥️</h1>
+  <img alt="Image01" src="https://github.com/user-attachments/assets/6a0358f8-b538-408e-b8a5-3851b81af4df" width="20%" />
+  <h1 style="font-family: 'Courier New', Courier, monospace; color: orange;"> Welcome to ZhengHang's AOS Lab </h1>
 </div>
 
 <p align="center">
