@@ -35,8 +35,11 @@
 ### 📖 关于我 / About Me
 
 🌌 **研究方向**：大气与海洋动力学，气候动力学 (Atmospheric and Oceanic Dynamics & Climate Dynamics)
+
 🌊 **研究兴趣**：专注于研究行星（包括地球）的大气海洋动力学理论
+
 💻 **正在进行**：大气科学与人工智能；前端开发技能，尝试将气象数据处理与 Web 技术结合
+
 🔧 **常用工具**：Panoply, VS Code, LaTeX, Miniconda
 
 ### 📬 联系我 / Contact Me
