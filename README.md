@@ -1,6 +1,6 @@
 <div align="center">
 <!-- 1. 顶部 Banner -->
-  <img src="./imgs/hpage_fig01.png" width="30%" />
+  <img alt="Image" src="https://github.com/user-attachments/assets/9abed75f-aaad-471d-a2a6-e1970666b4b9" width="30%" />
   <h1>Welcome to ZhengHang's AOS Lab 🌥️</h1>
 </div>
 
