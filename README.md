@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="Image" src="https://github.com/user-attachments/assets/0fc9f890-3aa4-43b6-a255-bab44477fe7e" width="20%" />
-  <h1 style="font-family: 'Courier New', Courier, monospace; color: orange;"> Welcome to ZhengHang's AOS Lab </h1>
+  <h1 style="font-family: 'Courier New', Courier, monospace; color: orange;"> Welcome to ZHL's AOS Lab 🌥️ </h1>
 </div>
 
 ---
