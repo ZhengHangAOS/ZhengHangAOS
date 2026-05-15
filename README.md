@@ -4,7 +4,7 @@
 </div>
 
 ---
-### 📖 关于我 / About Me
+### 📖 About Me
 
 🌍 **Research Interests**：Planetary Atmospheric and Oceanic Dynamics & Climate Dynamics.
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 📬 联系我 / Contact Me
+### 📬 Contact Me
 
 <p align="left">
 <a href="https://github.com/zhenghangaos" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="zhenghangaos" /></a>
